@@ -4,7 +4,6 @@
 *.o
 *.info
 /.ghc.environment.*
-/data/
 /dist
 /dist-newstyle
 /doc/alex.1
